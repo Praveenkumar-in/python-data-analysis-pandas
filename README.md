@@ -52,3 +52,16 @@ df = pd.read_csv("dataset.csv")
 print(df.shape)
 print(df.info())
 print(df.head())
+
+
+👨‍💻 Author
+
+Praveen Kumar
+Aspiring Data Analyst | Python & Pandas Learner
+
+- 📊 Interested in Data Analysis & Machine Learning
+- 🐍 Working with Python, Pandas, and EDA projects
+- 🚀 Building hands-on projects and sharing on GitHub
+
+Connect with me on LinkedIn: www.linkedin.com/in/praveenkumar65
+GitHub: https://github.com/Praveenkumar-in
