@@ -42,18 +42,6 @@ Datasets used include:
 
 ---
 
-## 📌 Sample Code
-
-```python
-import pandas as pd
-
-df = pd.read_csv("dataset.csv")
-
-print(df.shape)
-print(df.info())
-print(df.head())
-
-###
 ##👨‍💻 Author
 
 Praveen Kumar
@@ -65,3 +53,18 @@ Aspiring Data Analyst | Python & Pandas Learner
 
 Connect with me on LinkedIn: www.linkedin.com/in/praveenkumar65
 GitHub: https://github.com/Praveenkumar-in
+###
+
+## 📌 Sample Code
+
+```python
+import pandas as pd
+
+df = pd.read_csv("dataset.csv")
+
+print(df.shape)
+print(df.info())
+print(df.head())
+
+
+
