@@ -42,7 +42,7 @@ Datasets used include:
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Praveen Kumar
 Aspiring Data Analyst | Python & Pandas Learner
