@@ -51,8 +51,8 @@ Aspiring Data Analyst | Python & Pandas Learner
 - 🐍 Working with Python, Pandas, and EDA projects
 - 🚀 Building hands-on projects and sharing on GitHub
 
-Connect with me on LinkedIn: www.linkedin.com/in/praveenkumar65
-GitHub: https://github.com/Praveenkumar-in
+Connect with me on LinkedIn: -www.linkedin.com/in/praveenkumar65
+- GitHub: https://github.com/Praveenkumar-in
 ###
 
 ## 📌 Sample Code
@@ -65,6 +65,8 @@ df = pd.read_csv("dataset.csv")
 print(df.shape)
 print(df.info())
 print(df.head())
+```
 
-
+## License
+This project is licensed under the MIT License © 2026 Praveen Kumar
 
